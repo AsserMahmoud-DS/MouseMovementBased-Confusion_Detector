@@ -1,0 +1,7 @@
+fastapi[standard]
+xgboost==2.0.3
+pandas==2.2.3
+scikit-learn==1.2.2
+numpy==1.26.4
+uvicorn>=0.30.6
+pydantic>=2.9.2
