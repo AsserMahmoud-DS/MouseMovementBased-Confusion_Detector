@@ -1,6 +1,6 @@
 # MouseMovementBased-Confusion_Detector
 A Machine learning model that aims to detect confusion based on mouse movements for students on LMS
-This repo Contains Documentation that has every step done to this project in it. The document also contains Huggingface🤗 link for implementation to call the model as api.
+This repo Contains Documentation that has every step done to this project in it. The document also contains Huggingface 🤗 link for implementation to call the model as api.
 ## Flow
 1- Get mouse coordinates from LMS <br>
 2- Identify patterns <br>
